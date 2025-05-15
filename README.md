@@ -1,4 +1,4 @@
-## Pump Solana Trading and Sniping Bot
+## solana-sniper-bot
 
 ## Overview
 
